@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pertemuan_ViewGroup</string>
+    <string name="deskripsi">Batik IPNU IPPNU Nasional Pekalongan</string>
+    <string name="details">Kami menyediakan stok Batik Resmi IPNU IPPNU Pekalongan, Order dibawah 5 Pcs silahkan langsung klik Pesan tanpa tanya stok,Order grosir bisa menghubungi admin terlebih dahulu.Tersedia Ukuran mulai dari S,M,L,XL,XXL,XXXL </string>
+    <string name="nb">READY STOK, Pengiriaman langsung dari Kota Pekalongan</string>
+    <string name="price">HARGA</string>
+    <string name="Harga">75000</string>
+
+</resources>
